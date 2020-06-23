@@ -1,5 +1,5 @@
 {
-  "name": "typeorm",
+  "name": "@breeffy/typeorm",
   "private": true,
   "version": "0.2.25",
   "description": "Data-Mapper ORM for TypeScript, ES7, ES6, ES5. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, MongoDB databases.",
@@ -107,6 +107,7 @@
     "reflect-metadata": "^0.1.13",
     "sha.js": "^2.4.11",
     "tslib": "^1.9.0",
+    "url": "^0.11.0",
     "xml2js": "^0.4.17",
     "yargonaut": "^1.1.2",
     "yargs": "^13.2.1"
